@@ -22,7 +22,7 @@ Accessibility can include complex requirements, but your tech lead has given you
 
 
 Mock up
-<img src "./assets/images/01-html-css-git-homework-demo.png" />
+<img src="./assets/images/01-html-css-git-homework-demo.png" />
 
 ---
 © 2022 Steve Snavely Confidential and Proprietary. All Rights Reserved.
