@@ -21,6 +21,9 @@ An increasingly important consideration for businesses, web **accessibility** en
 Accessibility can include complex requirements, but your tech lead has given you a small list of specific criteria for this project. These criteria are documented in the Acceptance Criteria section.
 
 
+Mock up
+<img src "./assets/images/01-html-css-git-homework-demo.png" />
+
 ---
 © 2022 Steve Snavely Confidential and Proprietary. All Rights Reserved.
 .
