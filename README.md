@@ -19,7 +19,7 @@ Basic HTML and CSS principles applied to meet accessibility standards by conside
 Should modifications need to be made, changes inquiries should be made through the dev-ops manager of Horiseon Social Solution Services, Inc.
 
 Mock up
-<img src="./assets/images/01-html-css-git-homework-demo.png" />
+<img src="./assets/images/horiseon-homework.png" />
 
 ---
 © 2022 Steve Snavely Confidential and Proprietary. All Rights Reserved.
